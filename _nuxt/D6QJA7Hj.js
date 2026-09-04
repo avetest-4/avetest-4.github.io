@@ -1,0 +1,1 @@
+import{ou as o}from"./CeK_Mqtq.js";var a=o("/icon-default.png");export{a as t};

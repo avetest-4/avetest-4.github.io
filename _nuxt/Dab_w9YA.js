@@ -1,0 +1,1 @@
+import{ou as o}from"./CeK_Mqtq.js";var a=o("/download/frame-1.svg");export{a as t};

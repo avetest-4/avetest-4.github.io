@@ -1,0 +1,1 @@
+import{Nn as i,eu as o}from"./CeK_Mqtq.js";var t=o("position",()=>{const o=i({prefix:"position",defaultFixedWidth:300});return{...o,visible:o.visible,positionBoundingRect:o.boundingRect}});export{t};
