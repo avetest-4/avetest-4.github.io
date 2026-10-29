@@ -1,0 +1,1 @@
+import{G as s,Y as t,q as o,z as n}from"./BXjGkdfr.js";import{Ii as a}from"./Bwdbim9C.js";function m(n){const m=s=>{const t=document.documentElement.classList;t.contains(n)!==s&&(t.toggle(n,s),a())};m(!0),s(()=>m(!0)),t(()=>m(!1)),o(()=>m(!1))}n();export{m as t};
